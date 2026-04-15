@@ -1,7 +1,7 @@
 ## Hi! I AM MEHMET ALI BUBER 👋
 ### Front-end Web Developer & Digital Content Creator
 
-I have been designing for digital environments for 5 years and developing website themes and codes for three years. For the last 1 year, I have been developing web 3.0 software in the fields of blockchain, nft, smart contract. 
+I have been designing for digital environments for 5 years and developing website themes and codes for 5 years.
 
 - 🔭 I'm currently working on web applications development.
 - 🌱 I’m currently learning deep JavaScript.
